@@ -1,4 +1,4 @@
-# 3D-deep-metric-learning
+# 3D-Representation-learning
 
 ## Papers
 - Fully Convolutional Geometric Features (FCGF): https://chrischoy.github.io/publication/fcgf/ (2019)
