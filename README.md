@@ -7,3 +7,6 @@
 ## Loss Functions
 - Contrastive Loss
   - Paper: http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf (2006)
+
+## RGB-D Self-Supervised
+- SPSG: Self-Supervised Photometric Scene Generation from RGB-D Scans https://arxiv.org/pdf/2006.14660.pdf (2020)
