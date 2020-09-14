@@ -14,3 +14,6 @@
 - SPSG: Self-Supervised Photometric Scene Generation from RGB-D Scans https://arxiv.org/pdf/2006.14660.pdf (2020)
 
 - Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve https://arxiv.org/pdf/2007.13034.pdf (2020)
+
+## 3D Reconstruction
+- State of the Art on 3D Reconstruction with RGB-D Cameras https://www.cg.informatik.uni-siegen.de/data/Publications/2018/star1009-main.pdf (2018)
