@@ -17,3 +17,5 @@
 
 ## 3D Reconstruction
 - State of the Art on 3D Reconstruction with RGB-D Cameras https://www.cg.informatik.uni-siegen.de/data/Publications/2018/star1009-main.pdf (2018)
+## Metric Learning
+- A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf (2020)
