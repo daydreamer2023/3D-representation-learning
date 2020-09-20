@@ -28,5 +28,5 @@
 - SHREC’17: RGB-D to CAD Retrieval with ObjectNN Dataset http://www.scenenn.net/pdf/objectnn_shrec17.pdf
 - SHREC’18: RGB-D Object-to-CAD Retrieval https://craigyuyu.github.io/home/papers/shrec18.pdf
 - 
-## Reading
-- How to read paper? https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
+## Dataset
+- ModelNet https://vision.cs.princeton.edu/projects/2014/ModelNet/# ?
