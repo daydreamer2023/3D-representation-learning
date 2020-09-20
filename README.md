@@ -17,6 +17,9 @@
 
 ## 3D Reconstruction
 - State of the Art on 3D Reconstruction with RGB-D Cameras https://www.cg.informatik.uni-siegen.de/data/Publications/2018/star1009-main.pdf (2018)
+- KinectFusion: Real-Time Dense Surface Mapping and Tracking https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf
+- KinectFusion: Real-time 3D Reconstruction and Interaction Using a Moving Depth Camera https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/kinectfusion-uist-comp.pdf
+- ElasticFusion: Dense SLAM Without A Pose Graph http://www.roboticsproceedings.org/rss11/p01.pdf
 ## Metric Learning
 - A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf (2020)
 ## Reading
