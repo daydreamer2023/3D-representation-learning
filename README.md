@@ -20,6 +20,8 @@
 - KinectFusion: Real-Time Dense Surface Mapping and Tracking https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ismar2011.pdf
 - KinectFusion: Real-time 3D Reconstruction and Interaction Using a Moving Depth Camera https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/kinectfusion-uist-comp.pdf
 - ElasticFusion: Dense SLAM Without A Pose Graph http://www.roboticsproceedings.org/rss11/p01.pdf
+- Robust Reconstruction of Indoor Scenes https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Choi_Robust_Reconstruction_of_2015_CVPR_paper.html
+- BundleFusion: Real-time Globally Consistent 3D Reconstruction using On-the-fly Surface Re-integration https://arxiv.org/abs/1604.01093
 ## Metric Learning
 - A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf (2020)
 ## Reading
