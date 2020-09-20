@@ -24,5 +24,9 @@
 - BundleFusion: Real-time Globally Consistent 3D Reconstruction using On-the-fly Surface Re-integration https://arxiv.org/abs/1604.01093
 ## Metric Learning
 - A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf (2020)
+## RGB-D to CAD Retrieval
+- SHREC’17: RGB-D to CAD Retrieval with ObjectNN Dataset http://www.scenenn.net/pdf/objectnn_shrec17.pdf
+- SHREC’18: RGB-D Object-to-CAD Retrieval https://craigyuyu.github.io/home/papers/shrec18.pdf
+- 
 ## Reading
 - How to read paper? https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
