@@ -28,6 +28,7 @@
 - SHREC’17: RGB-D to CAD Retrieval with ObjectNN Dataset http://www.scenenn.net/pdf/objectnn_shrec17.pdf
 - SHREC’18: RGB-D Object-to-CAD Retrieval https://craigyuyu.github.io/home/papers/shrec18.pdf
 - A comparison of methods for 3D scene shape retrieval https://www.sciencedirect.com/science/article/pii/S1077314220301090?dgcid=author
+- SHREC 2019 - Monocular Image Based 3D Model Retrieval https://diglib.eg.org/bitstream/handle/10.2312/3dor20191068/103-110.pdf?sequence=1&isAllowed=y
 ## Dataset
 - ModelNet https://vision.cs.princeton.edu/projects/2014/ModelNet/# ?
 - ShapeNet https://arxiv.org/abs/1512.03012
