@@ -11,7 +11,7 @@
   - Paper: Perceptual Losses for Real-Time Style Transfer and Super-Resolution https://arxiv.org/pdf/1603.08155.pdf (2016)
 - Beyond triplet loss: a deep quadruplet network for person re-identification https://arxiv.org/abs/1704.01719 (2017)
 
-##Sampling
+## Sampling
 - Improved Embeddings with Easy Positive Triplet Mining https://openaccess.thecvf.com/content_WACV_2020/papers/Xuan_Improved_Embeddings_with_Easy_Positive_Triplet_Mining_WACV_2020_paper.pdf (2020)
 
 ## RGB-D Self-Supervised
