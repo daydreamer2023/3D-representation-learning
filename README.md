@@ -9,6 +9,7 @@
   - Paper: http://yann.lecun.com/exdb/publis/pdf/hadsell-chopra-lecun-06.pdf (2006)
 - Perceptual Loss
   - Paper: Perceptual Losses for Real-Time Style Transfer and Super-Resolution https://arxiv.org/pdf/1603.08155.pdf (2016)
+- Beyond triplet loss: a deep quadruplet network for person re-identification https://arxiv.org/abs/1704.01719 (2017)
 
 ## RGB-D Self-Supervised
 - SPSG: Self-Supervised Photometric Scene Generation from RGB-D Scans https://arxiv.org/pdf/2006.14660.pdf (2020)
