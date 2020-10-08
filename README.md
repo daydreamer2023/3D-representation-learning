@@ -45,3 +45,6 @@
 
 ## GAN
 - 3DGAN: http://3dgan.csail.mit.edu/
+
+## 3D
+- Marching Cubes http://paulbourke.net/geometry/polygonise/
