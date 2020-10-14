@@ -2,8 +2,13 @@
 - 3D ShapeNets: A Deep Representation for Volumetric Shapes https://arxiv.org/abs/1406.5670 (2015)
 
 ## Papers
-- Fully Convolutional Geometric Features (FCGF): https://chrischoy.github.io/publication/fcgf/ (2019)
 - PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding https://arxiv.org/pdf/2007.10985.pdf (2020)
+
+## 3D Geometric Features
+- Fully Convolutional Geometric Features (FCGF): https://chrischoy.github.io/publication/fcgf/ (2019)
+### Traditional 
+- Fast Point Feature Histograms (FPFH) for 3D Registration https://www.cvl.iis.u-tokyo.ac.jp/class2017/2017w/papers/5.3DdataProcessing/Rusu_FPFH_ICRA2009.pdf (2009)
+- Unique Signatures of Histograms for Local Surface Description https://www.vision.deis.unibo.it/fede/papers/eccv10.pdf (2010)
 
 ## Loss Functions
 - Contrastive Loss
@@ -17,7 +22,6 @@
 
 ## RGB-D Self-Supervised
 - SPSG: Self-Supervised Photometric Scene Generation from RGB-D Scans https://arxiv.org/pdf/2006.14660.pdf (2020)
-
 - Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve https://arxiv.org/pdf/2007.13034.pdf (2020)
 
 ## 3D Reconstruction
