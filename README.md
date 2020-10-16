@@ -53,3 +53,5 @@
 
 ## 3D
 - Marching Cubes http://paulbourke.net/geometry/polygonise/
+## SLAM
+- SemanticFusion: Dense 3D Semantic Mapping with Convolutional Neural Networks https://arxiv.org/abs/1609.05130 (2016)
