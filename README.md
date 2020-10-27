@@ -50,6 +50,7 @@
 
 ## GAN
 - 3DGAN: http://3dgan.csail.mit.edu/
+- Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks https://arxiv.org/abs/1511.06434 (ICLR 2016)
 
 ## 3D
 - Marching Cubes http://paulbourke.net/geometry/polygonise/
