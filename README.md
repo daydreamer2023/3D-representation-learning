@@ -6,9 +6,7 @@
 
 ## 3D Geometric Features
 - Fully Convolutional Geometric Features (FCGF): https://chrischoy.github.io/publication/fcgf/ (2019)
-### Traditional 
-- Fast Point Feature Histograms (FPFH) for 3D Registration https://www.cvl.iis.u-tokyo.ac.jp/class2017/2017w/papers/5.3DdataProcessing/Rusu_FPFH_ICRA2009.pdf (2009)
-- Unique Signatures of Histograms for Local Surface Description https://www.vision.deis.unibo.it/fede/papers/eccv10.pdf (2010)
+
 
 ## Loss Functions
 - Contrastive Loss
@@ -60,3 +58,10 @@
 - Deep Learning for 3D Point Clouds: A Survey https://arxiv.org/pdf/1912.12033.pdf
 - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation https://arxiv.org/abs/1612.00593
 - PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space https://arxiv.org/abs/1706.02413
+
+## Hand-Crafted 3D Features
+- Spin Images: Using spin images for efficient object recognition in cluttered 3d scenes https://pdfs.semanticscholar.org/30c3/e410f689516983efcd780b9bea02531c387d.pdf
+- USC: Unique shape context for 3d data description https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.726.7564&rep=rep1&type=pdf
+- PFH: Aligning point cloud views using persistent feature histograms http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.391.5915&rep=rep1&type=pdf
+- Fast Point Feature Histograms (FPFH) for 3D Registration https://www.cvl.iis.u-tokyo.ac.jp/class2017/2017w/papers/5.3DdataProcessing/Rusu_FPFH_ICRA2009.pdf (2009)
+- SHOT: Unique Signatures of Histograms for Local Surface Description https://www.vision.deis.unibo.it/fede/papers/eccv10.pdf (2010)
