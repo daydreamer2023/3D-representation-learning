@@ -45,6 +45,7 @@
 ## Dataset
 - ModelNet https://vision.cs.princeton.edu/projects/2014/ModelNet/# ?
 - ShapeNet https://arxiv.org/abs/1512.03012
+- DeepDeform: https://arxiv.org/abs/1912.04302 (2020)
 
 ## GAN
 - 3DGAN: http://3dgan.csail.mit.edu/
