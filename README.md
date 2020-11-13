@@ -6,6 +6,7 @@
 
 ## 3D Geometric Features
 - Fully Convolutional Geometric Features (FCGF): https://chrischoy.github.io/publication/fcgf/ (2019)
+- What Do Single-view 3D Reconstruction Networks Learn? https://openaccess.thecvf.com/content_CVPR_2019/papers/Tatarchenko_What_Do_Single-View_3D_Reconstruction_Networks_Learn_CVPR_2019_paper.pdf (2019)
 
 
 ## Loss Functions
