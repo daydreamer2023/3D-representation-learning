@@ -65,3 +65,6 @@
 - PFH: Aligning point cloud views using persistent feature histograms http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.391.5915&rep=rep1&type=pdf
 - Fast Point Feature Histograms (FPFH) for 3D Registration https://www.cvl.iis.u-tokyo.ac.jp/class2017/2017w/papers/5.3DdataProcessing/Rusu_FPFH_ICRA2009.pdf (2009)
 - SHOT: Unique Signatures of Histograms for Local Surface Description https://www.vision.deis.unibo.it/fede/papers/eccv10.pdf (2010)
+
+## Optical flow
+- PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume https://arxiv.org/abs/1709.02371 (2018)
