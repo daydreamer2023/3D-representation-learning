@@ -45,6 +45,7 @@
 - Mesh R-CNN https://arxiv.org/abs/1906.02739 (2019)
 
 ## Dataset
+- ScanNet http://www.scan-net.org/
 - ModelNet https://vision.cs.princeton.edu/projects/2014/ModelNet/# ?
 - ShapeNet https://arxiv.org/abs/1512.03012
 - DeepDeform: https://arxiv.org/abs/1912.04302 (2020)
