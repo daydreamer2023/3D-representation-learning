@@ -75,4 +75,4 @@
 - Shapemask: Learning to segment novel objects by refining shape priors. https://arxiv.org/abs/1904.03239 (2019)
 
 ## Neural Holography
-http://www.computationalimaging.org/publications/neuralholography/
+- http://www.computationalimaging.org/publications/neuralholography/
