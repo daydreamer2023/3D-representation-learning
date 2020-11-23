@@ -78,7 +78,9 @@
 - http://www.computationalimaging.org/publications/neuralholography/
 
 ## Differentiable Rendering
-- Accelerating 3D Deep Learning with PyTorch3D: https://arxiv.org/abs/2007.08501 (2020)
+- Accelerating 3D Deep Learning with PyTorch3D: 
+  - Paper: https://arxiv.org/abs/2007.08501 (2020)
+  - Talk in ICML 2020 : https://www.youtube.com/watch?v=eCDBA_SbxCE&t=1408s&ab_channel=PyTorch
 - OpenDR: http://files.is.tue.mpg.de/black/papers/OpenDR.pdf (ECCV 2014)
 - Neural Mesh Renderer(NMR) https://hiroharu-kato.com/publication/neural_renderer/ (CVPR 2018)
 - Soft Rasterizer(SoftRas) https://arxiv.org/abs/1904.01786 (ICCV 2019)
