@@ -76,5 +76,10 @@
 
 ## Neural Holography
 - http://www.computationalimaging.org/publications/neuralholography/
-## Rendering
-- Accelerating 3D Deep Learning with PyTorch3D: https://arxiv.org/abs/2007.08501
+
+## Differentiable Rendering
+- Accelerating 3D Deep Learning with PyTorch3D: https://arxiv.org/abs/2007.08501 (2020)
+- OpenDR: http://files.is.tue.mpg.de/black/papers/OpenDR.pdf (ECCV 2014)
+- Neural Mesh Renderer(NMR) https://hiroharu-kato.com/publication/neural_renderer/ (CVPR 2018)
+- Soft Rasterizer(SoftRas) https://arxiv.org/abs/1904.01786 (ICCV 2019)
+- DIB-R https://nv-tlabs.github.io/DIB-R/ (NeurIPS 2019)
