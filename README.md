@@ -32,7 +32,6 @@
 - BundleFusion: Real-time Globally Consistent 3D Reconstruction using On-the-fly Surface Re-integration https://arxiv.org/abs/1604.01093
 ## Metric Learning
 - A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf (2020)
-## Self-Supervised Learning
 - Bootstrap your own latent: A new approach to self-supervised Learning https://arxiv.org/abs/2006.07733 (2020) (without using negative samples)
 ## RGB-D to CAD Retrieval
 - SHREC’17: RGB-D to CAD Retrieval with ObjectNN Dataset http://www.scenenn.net/pdf/objectnn_shrec17.pdf
@@ -77,3 +76,5 @@
 
 ## Neural Holography
 - http://www.computationalimaging.org/publications/neuralholography/
+## Rendering
+- Accelerating 3D Deep Learning with PyTorch3D: https://arxiv.org/abs/2007.08501
