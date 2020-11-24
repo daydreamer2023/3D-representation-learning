@@ -89,3 +89,6 @@
 - Neural Mesh Renderer(NMR) https://hiroharu-kato.com/publication/neural_renderer/ (CVPR 2018)
 - Soft Rasterizer(SoftRas) https://arxiv.org/abs/1904.01786 (ICCV 2019)
 - DIB-R https://nv-tlabs.github.io/DIB-R/ (NeurIPS 2019)
+
+## Neural Rendering
+- Neural scene representation and rendering https://deepmind.com/blog/article/neural-scene-representation-and-rendering 2018
