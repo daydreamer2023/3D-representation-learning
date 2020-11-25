@@ -47,6 +47,9 @@
 - Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve https://arxiv.org/pdf/2007.13034.pdf (2020)
 - Mesh R-CNN https://arxiv.org/abs/1906.02739 (2019)
 
+## Deformation & Shape Modelling
+- Neural Cages for Detail-Preserving 3D Deformations https://yifita.github.io/publication/deep_cage/ (2020)
+
 ## Dataset
 - ScanNet http://www.scan-net.org/
 - ModelNet https://vision.cs.princeton.edu/projects/2014/ModelNet/# ?
