@@ -52,6 +52,7 @@
 - ModelNet https://vision.cs.princeton.edu/projects/2014/ModelNet/# ?
 - ShapeNet https://arxiv.org/abs/1512.03012
 - DeepDeform: https://arxiv.org/abs/1912.04302 (2020)
+- Pix3D http://pix3d.csail.mit.edu/ (image-shape pairs)
 
 ## GAN
 - 3DGAN: http://3dgan.csail.mit.edu/
