@@ -48,7 +48,7 @@
 - Mesh R-CNN https://arxiv.org/abs/1906.02739 (2019)
 
 ## Deformation & Shape Modelling
-- Neural Cages for Detail-Preserving 3D Deformations https://yifita.github.io/publication/deep_cage/ (2020)
+- Neural Cages for Detail-Preserving 3D Deformations https://yifita.github.io/publication/deep_cage/ (CVPR 2020)
 
 ## Dataset
 - ScanNet http://www.scan-net.org/
