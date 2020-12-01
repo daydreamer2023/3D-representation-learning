@@ -49,6 +49,7 @@
 
 ## Deformation & Shape Modelling
 - Neural Cages for Detail-Preserving 3D Deformations https://yifita.github.io/publication/deep_cage/ (CVPR 2020)
+- CAD-Deform: Deformable Fitting of CAD Models to 3D Scans https://arxiv.org/abs/2007.11965
 
 ## Dataset
 - ScanNet http://www.scan-net.org/
