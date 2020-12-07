@@ -71,6 +71,7 @@
 - Deep Learning for 3D Point Clouds: A Survey https://arxiv.org/pdf/1912.12033.pdf
 - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation https://arxiv.org/abs/1612.00593
 - PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space https://arxiv.org/abs/1706.02413
+- Neural Point-Based Graphics https://saic-violet.github.io/npbg/ (2020)
 
 ## Hand-Crafted 3D Features
 - Spin Images: Using spin images for efficient object recognition in cluttered 3d scenes https://pdfs.semanticscholar.org/30c3/e410f689516983efcd780b9bea02531c387d.pdf
