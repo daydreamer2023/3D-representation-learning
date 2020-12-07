@@ -99,3 +99,4 @@
 
 ## Neural Rendering
 - Neural scene representation and rendering https://deepmind.com/blog/article/neural-scene-representation-and-rendering 2018
+- Representing Scenes as Neural Radiance Fields for View Synthesis https://www.matthewtancik.com/nerf (ECCV 2020)
