@@ -38,6 +38,7 @@
 ## Metric Learning
 - A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf (2020)
 - Bootstrap your own latent: A new approach to self-supervised Learning https://arxiv.org/abs/2006.07733 (2020) (without using negative samples)
+
 ## RGB-D to CAD Retrieval
 - SHREC’17: RGB-D to CAD Retrieval with ObjectNN Dataset http://www.scenenn.net/pdf/objectnn_shrec17.pdf
 - SHREC’18: RGB-D Object-to-CAD Retrieval https://craigyuyu.github.io/home/papers/shrec18.pdf
@@ -51,6 +52,7 @@
 ## Deformation & Shape Modelling
 - Neural Cages for Detail-Preserving 3D Deformations https://yifita.github.io/publication/deep_cage/ (CVPR 2020)
 - CAD-Deform: Deformable Fitting of CAD Models to 3D Scans https://arxiv.org/abs/2007.11965
+- PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding https://arxiv.org/pdf/1812.02713.pdf (2018)
 
 ## Dataset
 - ScanNet http://www.scan-net.org/
