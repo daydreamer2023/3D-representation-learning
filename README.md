@@ -49,7 +49,8 @@
 - Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve https://arxiv.org/pdf/2007.13034.pdf (2020)
 - Mesh R-CNN https://arxiv.org/abs/1906.02739 (2019)
 
-## Deformation & Shape Modelling
+## Shape Deformation & Modelling
+- Deformation-Aware 3D Model Embedding and Retrieval https://arxiv.org/pdf/2004.01228.pdf (ECCV 2020)
 - Neural Cages for Detail-Preserving 3D Deformations https://yifita.github.io/publication/deep_cage/ (CVPR 2020)
 - CAD-Deform: Deformable Fitting of CAD Models to 3D Scans https://arxiv.org/abs/2007.11965
 - PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding https://arxiv.org/pdf/1812.02713.pdf (2018)
