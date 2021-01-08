@@ -1,8 +1,8 @@
 # 3D-Representation-learning
-# Deform 3D
+## Deform 3D
 - SDM-NET: Deep Generative Network for Structured Deformable Mesh (2019)http://geometrylearning.com/sdm-net/
 
-- PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding https://arxiv.org/pdf/2007.10985.pdf (2020)
+
 
 ## 3D Geometric Features
 - Fully Convolutional Geometric Features (FCGF): https://chrischoy.github.io/publication/fcgf/ (2019)
@@ -73,6 +73,7 @@
 - SemanticFusion: Dense 3D Semantic Mapping with Convolutional Neural Networks https://arxiv.org/abs/1609.05130 (2016)
 
 ## PointCloud
+- PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding https://arxiv.org/pdf/2007.10985.pdf (2020)
 - Deep Learning for 3D Point Clouds: A Survey https://arxiv.org/pdf/1912.12033.pdf
 - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation https://arxiv.org/abs/1612.00593
 - PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space https://arxiv.org/abs/1706.02413
