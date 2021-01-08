@@ -1,13 +1,12 @@
 # 3D-Representation-learning
-- 3D ShapeNets: A Deep Representation for Volumetric Shapes https://arxiv.org/abs/1406.5670 (2015)
+# Deform 3D
+- SDM-NET: Deep Generative Network for Structured Deformable Mesh (2019)http://geometrylearning.com/sdm-net/
 
-## Papers
 - PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding https://arxiv.org/pdf/2007.10985.pdf (2020)
 
 ## 3D Geometric Features
 - Fully Convolutional Geometric Features (FCGF): https://chrischoy.github.io/publication/fcgf/ (2019)
 - What Do Single-view 3D Reconstruction Networks Learn? https://openaccess.thecvf.com/content_CVPR_2019/papers/Tatarchenko_What_Do_Single-View_3D_Reconstruction_Networks_Learn_CVPR_2019_paper.pdf (2019)
-
 
 ## Loss Functions
 - Contrastive Loss
@@ -62,14 +61,17 @@
 - DeepDeform: https://arxiv.org/abs/1912.04302 (2020)
 - Pix3D http://pix3d.csail.mit.edu/ (image-shape pairs)
 
+
 ## GAN
 - 3DGAN: http://3dgan.csail.mit.edu/
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks https://arxiv.org/abs/1511.06434 (ICLR 2016)
 
 ## 3D
+- - 3D ShapeNets: A Deep Representation for Volumetric Shapes https://arxiv.org/abs/1406.5670 (2015)
 - Marching Cubes http://paulbourke.net/geometry/polygonise/
 ## SLAM
 - SemanticFusion: Dense 3D Semantic Mapping with Convolutional Neural Networks https://arxiv.org/abs/1609.05130 (2016)
+
 ## PointCloud
 - Deep Learning for 3D Point Clouds: A Survey https://arxiv.org/pdf/1912.12033.pdf
 - PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation https://arxiv.org/abs/1612.00593
@@ -85,6 +87,7 @@
 
 ## Optical flow
 - PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume https://arxiv.org/abs/1709.02371 (2018)
+
 ## Instance Segmentation
 - Shapemask: Learning to segment novel objects by refining shape priors. https://arxiv.org/abs/1904.03239 (2019)
 
