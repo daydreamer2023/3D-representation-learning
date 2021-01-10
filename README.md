@@ -3,9 +3,11 @@
 - SDM-NET: Deep Generative Network for Structured Deformable Mesh (2019)http://geometrylearning.com/sdm-net/
 - CAD-Deform: Deformable Fitting of CAD Models to 3D Scans https://arxiv.org/abs/2007.11965
 
-
 ## Part-Based Understanding
 - Towards Part-Based Understanding of RGB-D Scans (2020) https://arxiv.org/pdf/2012.02094.pdf
+
+## 3D Object Detection
+- MLCVNet: Multi-Level Context VoteNet for 3D Object Detection (2020) https://arxiv.org/abs/2004.05679
 
 ## 3D Geometric Features
 - Fully Convolutional Geometric Features (FCGF): https://chrischoy.github.io/publication/fcgf/ (2019)
