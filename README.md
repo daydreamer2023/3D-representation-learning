@@ -8,6 +8,8 @@
 
 ## 3D Object Detection
 - MLCVNet: Multi-Level Context VoteNet for 3D Object Detection (2020) https://arxiv.org/abs/2004.05679
+## 3D Instance Segmentation
+- PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation (CVPR 2020) https://arxiv.org/abs/2004.01658
 
 ## 3D Geometric Features
 - Fully Convolutional Geometric Features (FCGF): https://chrischoy.github.io/publication/fcgf/ (2019)
