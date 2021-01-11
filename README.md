@@ -77,7 +77,7 @@
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks https://arxiv.org/abs/1511.06434 (ICLR 2016)
 
 ## 3D
-- - 3D ShapeNets: A Deep Representation for Volumetric Shapes https://arxiv.org/abs/1406.5670 (2015)
+- 3D ShapeNets: A Deep Representation for Volumetric Shapes https://arxiv.org/abs/1406.5670 (2015)
 - Marching Cubes http://paulbourke.net/geometry/polygonise/
 ## SLAM
 - SemanticFusion: Dense 3D Semantic Mapping with Convolutional Neural Networks https://arxiv.org/abs/1609.05130 (2016)
