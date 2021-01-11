@@ -1,6 +1,7 @@
 # 3D-Representation-learning
-# Survey Deep Geometry Learning
+# Survey & Tutorial Deep Geometry Learning
 - A Survey on Deep Geometry Learning: From a Representation Perspective (2020) https://arxiv.org/abs/2002.07995
+- Learning Generative Models of 3D Structures(2019) https://3dstructgen.github.io/
 
 ## Deform 3D
 - SDM-NET: Deep Generative Network for Structured Deformable Mesh (2019)http://geometrylearning.com/sdm-net/
