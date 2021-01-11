@@ -7,6 +7,7 @@
 ## Part-Based Understanding
 - Towards Part-Based Understanding of RGB-D Scans (2020) https://arxiv.org/pdf/2012.02094.pdf
 - DSM-Net: Disentangled Structured Mesh Net for Controllable Generation of Fine Geometry https://arxiv.org/pdf/2008.05440.pdf
+- Learning Adaptive Hierarchical Cuboid Abstractions of 3D Shape Collections https://isunchy.github.io/projects/cuboid_abstraction.html (SIGGRAPH Asia 2019)
 
 ## 3D Object Detection
 - MLCVNet: Multi-Level Context VoteNet for 3D Object Detection (2020) https://arxiv.org/abs/2004.05679
