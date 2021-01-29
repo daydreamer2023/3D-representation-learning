@@ -3,9 +3,13 @@
 - A Survey on Deep Geometry Learning: From a Representation Perspective (2020) https://arxiv.org/abs/2002.07995
 - Learning Generative Models of 3D Structures(2019) https://3dstructgen.github.io/
 
-## Deform 3D
+## Shape Deformation & Modelling
 - SDM-NET: Deep Generative Network for Structured Deformable Mesh (2019)http://geometrylearning.com/sdm-net/
 - CAD-Deform: Deformable Fitting of CAD Models to 3D Scans https://arxiv.org/abs/2007.11965
+- Joint Learning of 3D Shape Retrieval and Deformation https://arxiv.org/pdf/2101.07889.pdf (2021)
+- Deformation-Aware 3D Model Embedding and Retrieval https://arxiv.org/pdf/2004.01228.pdf (ECCV 2020)
+- Neural Cages for Detail-Preserving 3D Deformations https://yifita.github.io/publication/deep_cage/ (CVPR 2020)
+- PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding https://arxiv.org/pdf/1812.02713.pdf (2018)
 
 ## Part-Based Understanding
 - Towards Part-Based Understanding of RGB-D Scans (2020) https://arxiv.org/pdf/2012.02094.pdf
@@ -64,10 +68,6 @@
 - Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve https://arxiv.org/pdf/2007.13034.pdf (2020)
 - Mesh R-CNN https://arxiv.org/abs/1906.02739 (2019)
 
-## Shape Deformation & Modelling
-- Deformation-Aware 3D Model Embedding and Retrieval https://arxiv.org/pdf/2004.01228.pdf (ECCV 2020)
-- Neural Cages for Detail-Preserving 3D Deformations https://yifita.github.io/publication/deep_cage/ (CVPR 2020)
-- PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding https://arxiv.org/pdf/1812.02713.pdf (2018)
 
 ## Dataset
 - ScanNet http://www.scan-net.org/
