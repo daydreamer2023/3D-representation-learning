@@ -84,7 +84,6 @@
 
 ## 3D
 - 3D ShapeNets: A Deep Representation for Volumetric Shapes https://arxiv.org/abs/1406.5670 (2015)
-- Marching Cubes http://paulbourke.net/geometry/polygonise/
 
 ## SLAM
 - SemanticFusion: Dense 3D Semantic Mapping with Convolutional Neural Networks https://arxiv.org/abs/1609.05130 (2016)
@@ -125,3 +124,7 @@
 ## Neural Rendering
 - Neural scene representation and rendering https://deepmind.com/blog/article/neural-scene-representation-and-rendering 2018
 - Representing Scenes as Neural Radiance Fields for View Synthesis https://www.matthewtancik.com/nerf (ECCV 2020)
+
+## 3D Basics
+- Delaunay triangulation http://multivis.net/lecture/delaunay.html
+- Marching Cubes http://paulbourke.net/geometry/polygonise/
