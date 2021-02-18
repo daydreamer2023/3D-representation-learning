@@ -1,4 +1,5 @@
 # 3D-Representation-learning
+
 # Survey & Tutorial Deep Geometry Learning
 - A Survey on Deep Geometry Learning: From a Representation Perspective (2020) https://arxiv.org/abs/2002.07995
 - Learning Generative Models of 3D Structures(2019) https://3dstructgen.github.io/
@@ -131,3 +132,7 @@
 ## 3D Basics
 - Delaunay triangulation http://multivis.net/lecture/delaunay.html
 - Marching Cubes http://paulbourke.net/geometry/polygonise/
+
+## Courses
+- Discrete Differential Geometry: https://brickisland.net/DDGSpring2021/
+
