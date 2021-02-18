@@ -11,6 +11,7 @@
 - Neural Cages for Detail-Preserving 3D Deformations https://yifita.github.io/publication/deep_cage/ (CVPR 2020)
 - PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding https://arxiv.org/pdf/1812.02713.pdf (2018)
 - MeshODE: A Robust and Scalable Framework for Mesh Deformation https://arxiv.org/pdf/2005.11617.pdf (2020)
+- 3DN: 3D Deformation Network https://arxiv.org/pdf/1903.03322.pdf (2019)
 
 ## Part-Based Understanding
 - Towards Part-Based Understanding of RGB-D Scans (2020) https://arxiv.org/pdf/2012.02094.pdf
