@@ -128,6 +128,7 @@
 - Representing Scenes as Neural Radiance Fields for View Synthesis https://www.matthewtancik.com/nerf (ECCV 2020)
 - Layered Neural Rendering for Retiming People in Video https://retiming.github.io/ (SIGGRAPH Asia 2020)
 - Rig-space Neural Rendering https://arxiv.org/abs/2003.09820
+- Neural Voxel Renderer: Learning an Accurate and Controllable Rendering Tool https://arxiv.org/pdf/1912.04591.pdf (2020)
 
 ## 3D Basics
 - Delaunay triangulation http://multivis.net/lecture/delaunay.html
