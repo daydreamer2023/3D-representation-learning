@@ -73,6 +73,7 @@
 ## RGB to CAD Retrieval or Mesh (+pose)
 - Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve https://arxiv.org/pdf/2007.13034.pdf (2020)
 - Mesh R-CNN https://arxiv.org/abs/1906.02739 (2019)
+- Joint Embeddings of Shapes and Images via CNN Image Purification https://dl.acm.org/doi/pdf/10.1145/2816795.2818071
 
 
 ## Dataset
@@ -81,7 +82,6 @@
 - ShapeNet https://arxiv.org/abs/1512.03012
 - DeepDeform: https://arxiv.org/abs/1912.04302 (2020)
 - Pix3D http://pix3d.csail.mit.edu/ (image-shape pairs)
-
 
 ## GAN
 - 3DGAN: http://3dgan.csail.mit.edu/
