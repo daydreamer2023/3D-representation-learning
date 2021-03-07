@@ -17,6 +17,7 @@
 - DeformSyncNet: Deformation Transfer via Synchronized Shape Deformation Spaces https://arxiv.org/pdf/2009.01456.pdf (2020)
 - Retrieval on Parametric Shape Collections https://cfg.mit.edu/assets/files/retrieval-on-parametric-shape-collections.pdf
 - Compositionally Generalizable 3D Structure Prediction https://arxiv.org/pdf/2012.02493.pdf (2020)
+- DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates https://arxiv.org/pdf/2102.09105.pdf (2021)
 
 ## Part-Based Understanding
 - Towards Part-Based Understanding of RGB-D Scans (2020) https://arxiv.org/pdf/2012.02094.pdf
