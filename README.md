@@ -25,6 +25,7 @@
 - Learning Adaptive Hierarchical Cuboid Abstractions of 3D Shape Collections https://isunchy.github.io/projects/cuboid_abstraction.html (SIGGRAPH Asia 2019)
 - SCORES: Shape Composition with Recursive Substructure Priors https://kevinkaixu.net/projects/scores.html (2018)
 - StructureNet: Hierarchical Graph Networks for 3D Shape Generation https://arxiv.org/pdf/1908.00575.pdf (2019)
+- Monte Carlo Scene Search for 3D Scene Understanding https://arxiv.org/pdf/2103.07969.pdf (2021)
 
 ## 3D Object Detection
 - MLCVNet: Multi-Level Context VoteNet for 3D Object Detection (2020) https://arxiv.org/abs/2004.05679
