@@ -78,7 +78,8 @@
 - Mesh R-CNN https://arxiv.org/abs/1906.02739 (2019)
 - Joint Embeddings of Shapes and Images via CNN Image Purification https://dl.acm.org/doi/pdf/10.1145/2816795.2818071
 
-
+## Single View Reconstruction
+- DISN: Deep Implicit Surface Network for High-quality Single-view 3D Reconstruction https://arxiv.org/abs/1905.10711 (NeurIPS 2019)
 ## Dataset
 - ScanNet http://www.scan-net.org/
 - ModelNet https://vision.cs.princeton.edu/projects/2014/ModelNet/# ?
