@@ -142,6 +142,7 @@
 - Marching Cubes http://paulbourke.net/geometry/polygonise/
 - Chamfer distance https://arxiv.org/pdf/1612.00603.pdf (2016)
 - Poisson Surface Reconstruction http://sites.fas.harvard.edu/~cs277/papers/poissonrecon.pdf (2006)
+- Laplacian Mesh Processing https://people.eecs.berkeley.edu/~jrs/meshpapers/Sorkine.pdf
 
 ## Courses
 - Discrete Differential Geometry: https://brickisland.net/DDGSpring2021/
