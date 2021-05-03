@@ -141,6 +141,7 @@
 - Delaunay triangulation http://multivis.net/lecture/delaunay.html
 - Marching Cubes http://paulbourke.net/geometry/polygonise/
 - Chamfer distance https://arxiv.org/pdf/1612.00603.pdf (2016)
+- Poisson Surface Reconstruction http://sites.fas.harvard.edu/~cs277/papers/poissonrecon.pdf (2006)
 
 ## Courses
 - Discrete Differential Geometry: https://brickisland.net/DDGSpring2021/
