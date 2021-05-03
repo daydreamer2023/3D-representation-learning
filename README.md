@@ -143,6 +143,7 @@
 - Chamfer distance https://arxiv.org/pdf/1612.00603.pdf (2016)
 - Poisson Surface Reconstruction http://sites.fas.harvard.edu/~cs277/papers/poissonrecon.pdf (2006)
 - Laplacian Mesh Processing https://people.eecs.berkeley.edu/~jrs/meshpapers/Sorkine.pdf
+- Efficient Variants of the ICP Algorithm http://www.pcl-users.org/file/n4037867/Rusinkiewicz_Effcient_Variants_of_ICP.pdf
 
 ## Courses
 - Discrete Differential Geometry: https://brickisland.net/DDGSpring2021/
