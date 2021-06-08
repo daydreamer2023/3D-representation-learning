@@ -61,8 +61,9 @@
 - BundleFusion: Real-time Globally Consistent 3D Reconstruction using On-the-fly Surface Re-integration https://arxiv.org/abs/1604.01093
 - Building Rome in a Day https://grail.cs.washington.edu/rome/ (ICCV 2009)
 
-### Learning 3D Reconstruction
+### Learning 3D Reconstruction & Implicit
 - Occupancy Networks: https://avg.is.tuebingen.mpg.de/publications/occupancy-networks (CVPR 2019)
+- DeepSDF https://arxiv.org/abs/1901.05103
 
 ## Metric Learning
 - A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf (2020)
