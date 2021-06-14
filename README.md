@@ -74,6 +74,7 @@
 - SHREC’18: RGB-D Object-to-CAD Retrieval https://craigyuyu.github.io/home/papers/shrec18.pdf
 - A comparison of methods for 3D scene shape retrieval https://www.sciencedirect.com/science/article/pii/S1077314220301090?dgcid=author
 - SHREC 2019 - Monocular Image Based 3D Model Retrieval https://diglib.eg.org/bitstream/handle/10.2312/3dor20191068/103-110.pdf?sequence=1&isAllowed=y
+- Retrieval on Parametric Shape Collections https://dl.acm.org/doi/10.1145/2983618
 
 ## RGB to CAD Retrieval or Mesh (+pose)
 - Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve https://arxiv.org/pdf/2007.13034.pdf (2020)
