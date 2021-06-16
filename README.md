@@ -20,6 +20,7 @@
 - Compositionally Generalizable 3D Structure Prediction https://arxiv.org/pdf/2012.02493.pdf (2020)
 - DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates https://arxiv.org/pdf/2102.09105.pdf (2021)
 - Parsing Geometry Using Structure-Aware Shape Templates https://arxiv.org/pdf/1808.01337.pdf (2018)
+- Learning Semantic Deformation Flows with 3D Convolutional Networks http://geometry.cs.ucl.ac.uk/projects/2016/semantic_learning/paper_docs/DefFlow3D.pdf
 
 ## Part-Based Understanding
 - Towards Part-Based Understanding of RGB-D Scans (2020) https://arxiv.org/pdf/2012.02094.pdf
