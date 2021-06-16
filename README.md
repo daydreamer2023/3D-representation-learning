@@ -50,6 +50,7 @@
 - Improved Embeddings with Easy Positive Triplet Mining https://openaccess.thecvf.com/content_WACV_2020/papers/Xuan_Improved_Embeddings_with_Easy_Positive_Triplet_Mining_WACV_2020_paper.pdf (2020)
 
 ## RGB-D Self-Supervised
+- Self-supervised Geometric Perception https://arxiv.org/pdf/2103.03114.pdf (CVPR 2021 Oral)
 - SPSG: Self-Supervised Photometric Scene Generation from RGB-D Scans https://arxiv.org/pdf/2006.14660.pdf (2020)
 - Mask2CAD: 3D Shape Prediction by Learning to Segment and Retrieve https://arxiv.org/pdf/2007.13034.pdf (2020)
 
