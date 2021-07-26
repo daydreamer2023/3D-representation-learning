@@ -157,3 +157,4 @@
 ## Courses
 - Discrete Differential Geometry: https://brickisland.net/DDGSpring2021/
 - Dynamic Deformables: Implementation and Production Practicalities: https://graphics.pixar.com/library/DynamicDeformablesSiggraph2020/paper.pdf
+- Machine Learning Meets Geometry https://geoml.github.io/
