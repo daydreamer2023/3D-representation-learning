@@ -160,6 +160,7 @@
 - Efficient Variants of the ICP Algorithm http://www.pcl-users.org/file/n4037867/Rusinkiewicz_Effcient_Variants_of_ICP.pdf
 - Mean Value Coordinates https://www.cse.wustl.edu/~taoju/research/meanvalue.pdf
 - Catmull Clark Subvision https://people.eecs.berkeley.edu/~sequin/CS284/PAPERS/CatmullClark_SDSurf.pdf
+- As-Rigid-As-Possible Shape Manipulation  https://www-ui.is.s.u-tokyo.ac.jp/~takeo/papers/rigid.pdf
 
 ## Courses
 - Discrete Differential Geometry: https://brickisland.net/DDGSpring2021/
