@@ -4,13 +4,19 @@
 - A Survey on Deep Geometry Learning: From a Representation Perspective (2020) https://arxiv.org/abs/2002.07995
 - Learning Generative Models of 3D Structures(2019) https://3dstructgen.github.io/
 
+# Learning 3D Geometry
+## Generative Models: High fidelity content is challenging in generative models.
+- AtlasNet: A papier-mache approach to learning 3D surface generation. In CVPR, 2018.
+- Occupancy networks: Learning 3D reconstruction in function space. In CVPR, 2019
+- SCORES: Shape composition with recursive substructure priors. 
+
 ## Shape Deformation & Modelling
+
 - SDM-NET: Deep Generative Network for Structured Deformable Mesh (2019)http://geometrylearning.com/sdm-net/
 - CAD-Deform: Deformable Fitting of CAD Models to 3D Scans https://arxiv.org/abs/2007.11965
 - Joint Learning of 3D Shape Retrieval and Deformation https://arxiv.org/pdf/2101.07889.pdf (2021)
 - Deformation-Aware 3D Model Embedding and Retrieval https://arxiv.org/pdf/2004.01228.pdf (ECCV 2020)
 - Neural Cages for Detail-Preserving 3D Deformations https://yifita.github.io/publication/deep_cage/ (CVPR 2020)
-- PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding https://arxiv.org/pdf/1812.02713.pdf (2018)
 - MeshODE: A Robust and Scalable Framework for Mesh Deformation https://arxiv.org/pdf/2005.11617.pdf (2020)
 - 3DN: 3D Deformation Network https://arxiv.org/pdf/1903.03322.pdf (2019)
 - Unsupervised cycle-consistent deformation for shape matching https://arxiv.org/pdf/1907.03165.pdf (2019)
@@ -30,6 +36,7 @@
 - SCORES: Shape Composition with Recursive Substructure Priors https://kevinkaixu.net/projects/scores.html (2018)
 - StructureNet: Hierarchical Graph Networks for 3D Shape Generation https://arxiv.org/pdf/1908.00575.pdf (2019)
 - Monte Carlo Scene Search for 3D Scene Understanding https://arxiv.org/pdf/2103.07969.pdf (2021)
+- PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding https://arxiv.org/pdf/1812.02713.pdf (2018)
 
 ## 3D Object Detection
 - MLCVNet: Multi-Level Context VoteNet for 3D Object Detection (2020) https://arxiv.org/abs/2004.05679
