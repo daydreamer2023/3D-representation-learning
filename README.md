@@ -11,7 +11,7 @@
 - SCORES: Shape composition with recursive substructure priors. 
 
 ## Shape Deformation & Modelling
-
+- 3D-CODED : 3D Correspondences by Deep Deformation https://arxiv.org/pdf/1806.05228.pdf
 - SDM-NET: Deep Generative Network for Structured Deformable Mesh (2019)http://geometrylearning.com/sdm-net/
 - CAD-Deform: Deformable Fitting of CAD Models to 3D Scans https://arxiv.org/abs/2007.11965
 - Joint Learning of 3D Shape Retrieval and Deformation https://arxiv.org/pdf/2101.07889.pdf (2021)
