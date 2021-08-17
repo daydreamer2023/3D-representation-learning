@@ -162,6 +162,9 @@
 - Catmull Clark Subvision https://people.eecs.berkeley.edu/~sequin/CS284/PAPERS/CatmullClark_SDSurf.pdf
 - As-Rigid-As-Possible Shape Manipulation  https://www-ui.is.s.u-tokyo.ac.jp/~takeo/papers/rigid.pdf
 - Skinning https://skinning.org/
+- Laplacian Smoothing: 
+  - Implicit Fairing of Irregular Meshes using Diffusion and Curvature Flow: http://multires.caltech.edu/pubs/ImplicitFairing.pdf
+  - Laplacian Mesh Optimization http://www.cs.jhu.edu/~misha/Fall07/Papers/Nealen06.pdf
 
 ## Courses
 - Discrete Differential Geometry: https://brickisland.net/DDGSpring2021/
