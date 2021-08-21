@@ -165,6 +165,7 @@
 - Laplacian Smoothing: 
   - Implicit Fairing of Irregular Meshes using Diffusion and Curvature Flow: http://multires.caltech.edu/pubs/ImplicitFairing.pdf
   - Laplacian Mesh Optimization http://www.cs.jhu.edu/~misha/Fall07/Papers/Nealen06.pdf
+- Taubin smoothing https://graphics.stanford.edu/courses/cs468-01-fall/Papers/taubin-smoothing.pdf
 
 ## Courses
 - Discrete Differential Geometry: https://brickisland.net/DDGSpring2021/
