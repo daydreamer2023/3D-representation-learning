@@ -28,6 +28,7 @@
 - Parsing Geometry Using Structure-Aware Shape Templates https://arxiv.org/pdf/1808.01337.pdf (2018)
 - Learning Semantic Deformation Flows with 3D Convolutional Networks http://geometry.cs.ucl.ac.uk/projects/2016/semantic_learning/paper_docs/DefFlow3D.pdf
 - Retrieval on Parametric Shape Collections https://dl.acm.org/doi/pdf/10.1145/2983618 (2017)
+- 3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations https://nv-tlabs.github.io/3DStyleNet/assets/3dstyle-paper.pdf (Similar to neural cage + texture) (ICCV 2021)
 
 ## Part-Based Understanding
 - Towards Part-Based Understanding of RGB-D Scans (2020) https://arxiv.org/pdf/2012.02094.pdf
@@ -75,6 +76,7 @@
 ### Learning 3D Reconstruction & Implicit
 - Occupancy Networks: https://avg.is.tuebingen.mpg.de/publications/occupancy-networks (CVPR 2019)
 - DeepSDF https://arxiv.org/abs/1901.05103
+- Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces https://nv-tlabs.github.io/nglod/ (CVPR 2021)
 
 ## Metric Learning
 - A Metric Learning Reality Check https://arxiv.org/pdf/2003.08505.pdf (2020)
