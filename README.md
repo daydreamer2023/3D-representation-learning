@@ -170,6 +170,7 @@
 - Taubin smoothing https://graphics.stanford.edu/courses/cs468-01-fall/Papers/taubin-smoothing.pdf
 - Biharmonic coordinates https://www.cs.toronto.edu/~jacobson/images/linear-subspace-design-for-real-time-shape-deformation-siggraph-2015-wang-et-al.pdf
 - Watertight manifold (Shapenet)https://arxiv.org/abs/1802.01698
+- Tetrahedral meshing: https://github.com/Yixin-Hu/TetWild
 
 ## Courses
 - Discrete Differential Geometry: https://brickisland.net/DDGSpring2021/
