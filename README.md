@@ -169,6 +169,7 @@
   - Laplacian Mesh Optimization http://www.cs.jhu.edu/~misha/Fall07/Papers/Nealen06.pdf
 - Taubin smoothing https://graphics.stanford.edu/courses/cs468-01-fall/Papers/taubin-smoothing.pdf
 - Biharmonic coordinates https://www.cs.toronto.edu/~jacobson/images/linear-subspace-design-for-real-time-shape-deformation-siggraph-2015-wang-et-al.pdf
+- Watertight manifold (Shapenet)https://arxiv.org/abs/1802.01698
 
 ## Courses
 - Discrete Differential Geometry: https://brickisland.net/DDGSpring2021/
